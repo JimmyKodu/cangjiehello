@@ -1,0 +1,18 @@
+# Cangjie build artifacts
+.cjbuild/
+*.cjpkg
+build/
+dist/
+output/
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
